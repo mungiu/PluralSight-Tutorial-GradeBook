@@ -1,0 +1,15 @@
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\Grades.Test.dll
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\Grades.Test.pdb
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\obj\Debug\Grades.Test.csprojResolveAssemblyReference.cache
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\obj\Debug\Grades.Test.dll
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\obj\Debug\Grades.Test.pdb
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\PSGrades.exe
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\PSGrades.pdb
+c:\Users\Andrei\documents\visual studio 2017\Projects\PSGrades\Grades.Test\bin\Debug\PSGrades.exe.config

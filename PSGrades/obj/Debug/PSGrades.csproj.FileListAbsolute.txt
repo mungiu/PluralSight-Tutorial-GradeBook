@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2017\Projects\PSGrades\PSGrades\bin\Debug\PSGrades.pdb
+c:\users\andrei\documents\visual studio 2017\Projects\PSGrades\PSGrades\obj\Debug\PSGrades.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2017\Projects\PSGrades\PSGrades\obj\Debug\PSGrades.pdb
+c:\users\andrei\documents\visual studio 2017\Projects\PSGrades\PSGrades\bin\Debug\PSGrades.exe.config
+c:\users\andrei\documents\visual studio 2017\Projects\PSGrades\PSGrades\bin\Debug\PSGrades.exe
+c:\users\andrei\documents\visual studio 2017\Projects\PSGrades\PSGrades\obj\Debug\PSGrades.exe
